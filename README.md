@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=900&duration=2600&color=58A6FF&center=true&vCenter=true&width=820&height=80&lines=Hi%2C+I%27m+Vishnu+Vardhan;Seasoned+Engineer+%C2%B7+Enterprise+Systems+%26+Integration;Architect+%E2%80%A2+Modernize+%E2%80%A2+Scale;AI+%26+Neural+Nets+%E2%80%94+from+scratch;I+build+to+understand" alt="intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=900&duration=2600&color=58A6FF&center=true&vCenter=true&width=820&height=80&lines=Hi%2C+I%27m+Vishnu+Vardhan;Architect+%E2%80%A2+Modernize+%E2%80%A2+Scale;AI+%26+Neural+Nets+%E2%80%94+from+scratch;I+build+to+understand" alt="intro" />
 </p>
 
 <p align="center">
@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-Seasoned engineer who architects and builds <b>complex enterprise systems and integrations</b>.
-Now also building full-stack apps and <b>AI &amp; neural nets from scratch</b>.
+Seasoned engineer who architects complex <b>enterprise systems &amp; integrations</b> — and builds full-stack apps and <b>AI &amp; neural nets</b> from scratch.
 </p>
 
 ## 💡 What I bring
@@ -33,43 +32,34 @@ and Adam, learning to sort by next-token prediction. Ships with an interactive e
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></a>
-  <a href="https://spring.io"><img src="https://img.shields.io/badge/Spring-0d1117?style=flat-square&logo=spring&logoColor=6DB33F" alt="Spring" /></a>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" /></a>
-  <a href="https://hibernate.org"><img src="https://img.shields.io/badge/Hibernate-0d1117?style=flat-square&logo=hibernate&logoColor=BCAE79" alt="Hibernate" /></a>
-  <a href="https://kafka.apache.org"><img src="https://img.shields.io/badge/Apache_Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" /></a>
-  <a href="https://graphql.org"><img src="https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&logo=graphql&logoColor=E10098" alt="GraphQL" /></a>
+  <a href="https://www.java.com" title="Java"><img height="44" src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+  <a href="https://spring.io" title="Spring"><img height="44" src="https://skillicons.dev/icons?i=spring" alt="Spring" /></a>
+  <a href="https://kafka.apache.org" title="Apache Kafka"><img height="44" src="https://skillicons.dev/icons?i=kafka" alt="Kafka" /></a>
+  <a href="https://graphql.org" title="GraphQL"><img height="44" src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" /></a>
+  <a href="https://gradle.org" title="Gradle"><img height="44" src="https://skillicons.dev/icons?i=gradle" alt="Gradle" /></a>
+  <a href="https://git-scm.com" title="Git"><img height="44" src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://www.docker.com" title="Docker"><img height="44" src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://kubernetes.io" title="Kubernetes"><img height="44" src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>
+  <a href="https://www.jenkins.io" title="Jenkins"><img height="44" src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" /></a>
+  <a href="https://azure.microsoft.com" title="Microsoft Azure"><img height="44" src="https://skillicons.dev/icons?i=azure" alt="Azure" /></a>
+  <a href="https://www.postgresql.org" title="PostgreSQL"><img height="44" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+  <a href="https://www.mysql.com" title="MySQL"><img height="44" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://www.typescriptlang.org" title="TypeScript"><img height="44" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript"><img height="44" src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://react.dev" title="React"><img height="44" src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://nextjs.org" title="Next.js"><img height="44" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
+  <a href="https://tailwindcss.com" title="Tailwind CSS"><img height="44" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" /></a>
 </p>
 
 <p align="center">
-  <a href="https://maven.apache.org"><img src="https://img.shields.io/badge/Maven-0d1117?style=flat-square&logo=apachemaven&logoColor=C71A36" alt="Maven" /></a>
-  <a href="https://gradle.org"><img src="https://img.shields.io/badge/Gradle-0d1117?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" /></a>
-  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" /></a>
-  <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" /></a>
-  <a href="https://kubernetes.io"><img src="https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" /></a>
-  <a href="https://www.jenkins.io"><img src="https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&logo=jenkins&logoColor=D24939" alt="Jenkins" /></a>
-  <a href="https://azure.microsoft.com"><img src="https://img.shields.io/badge/Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=0078D4" alt="Azure" /></a>
-</p>
-
-<p align="center">
-  <a href="https://www.oracle.com/middleware/technologies/soasuite.html"><img src="https://img.shields.io/badge/Oracle_SOA_Suite-0d1117?style=flat-square&logo=oracle&logoColor=F80000" alt="Oracle SOA Suite" /></a>
-  <a href="https://www.oracle.com/middleware/technologies/enterprise-data-quality.html"><img src="https://img.shields.io/badge/Oracle_EDQ-0d1117?style=flat-square&logo=oracle&logoColor=F80000" alt="Oracle EDQ" /></a>
-  <a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/Oracle_Cloud-0d1117?style=flat-square&logo=oracle&logoColor=F80000" alt="Oracle Cloud" /></a>
-  <a href="https://www.broadleafcommerce.com"><img src="https://img.shields.io/badge/Broadleaf_Commerce-0d1117?style=flat-square&logo=spring&logoColor=6DB33F" alt="Broadleaf Commerce" /></a>
-</p>
-
-<p align="center">
-  <a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/Oracle_DB-0d1117?style=flat-square&logo=oracle&logoColor=F80000" alt="Oracle Database" /></a>
-  <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /></a>
-  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" /></a>
-</p>
-
-<p align="center">
-  <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></a>
-  <a href="https://react.dev"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /></a>
-  <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
-  <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind" /></a>
+  <sub><b>Enterprise &amp; integration:</b>
+  <a href="https://hibernate.org">Hibernate</a> ·
+  <a href="https://maven.apache.org">Maven</a> ·
+  <a href="https://www.oracle.com/database/">Oracle DB</a> ·
+  <a href="https://www.oracle.com/middleware/technologies/soasuite.html">Oracle SOA Suite</a> ·
+  <a href="https://www.oracle.com/middleware/technologies/enterprise-data-quality.html">Oracle EDQ</a> ·
+  <a href="https://www.oracle.com/cloud/">Oracle Cloud</a> ·
+  <a href="https://www.broadleafcommerce.com">Broadleaf Commerce</a></sub>
 </p>
 
 ## 📊 GitHub
