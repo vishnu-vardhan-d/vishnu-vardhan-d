@@ -3,8 +3,12 @@
 </p>
 
 <p align="center">
+  📍 <b>Dallas, Texas</b> · USA
+</p>
+
+<p align="center">
 Seasoned engineer who architects and builds <b>complex enterprise systems and integrations</b>.
-Now also building full-stack apps and <b>AI &amp; neural nets from scratch</b>. &nbsp; 📍 Texas, USA
+Now also building full-stack apps and <b>AI &amp; neural nets from scratch</b>.
 </p>
 
 ## 💡 What I bring
@@ -29,10 +33,58 @@ and Adam, learning to sort by next-token prediction. Ships with an interactive e
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://www.java.com" title="Java"><img height="44" src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
-  <a href="https://spring.io" title="Spring"><img height="44" src="https://skillicons.dev/icons?i=spring" alt="Spring" /></a>
-  <a href="https://kafka.apache.org" title="Apache Kafka"><img height="44" src="https://skillicons.dev/icons?i=kafka" alt="Kafka" /></a>
-  <a href="https://graphql.org" title="GraphQL"><img height="44" src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" /></a>
-  <a href="https://www.postgresql.org" title="PostgreSQL"><img height="44" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
-  <a href="https://www.mysql.com" title="MySQL"><img height="44" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
-  <a href="https://azure.microsoft.com" title="Microsoft Azure"><img height="44" src="https://skillicons.dev/
+  <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></a>
+  <a href="https://spring.io"><img src="https://img.shields.io/badge/Spring-0d1117?style=flat-square&logo=spring&logoColor=6DB33F" alt="Spring" /></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" /></a>
+  <a href="https://hibernate.org"><img src="https://img.shields.io/badge/Hibernate-0d1117?style=flat-square&logo=hibernate&logoColor=BCAE79" alt="Hibernate" /></a>
+  <a href="https://kafka.apache.org"><img src="https://img.shields.io/badge/Apache_Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" /></a>
+  <a href="https://graphql.org"><img src="https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&logo=graphql&logoColor=E10098" alt="GraphQL" /></a>
+</p>
+
+<p align="center">
+  <a href="https://maven.apache.org"><img src="https://img.shields.io/badge/Maven-0d1117?style=flat-square&logo=apachemaven&logoColor=C71A36" alt="Maven" /></a>
+  <a href="https://gradle.org"><img src="https://img.shields.io/badge/Gradle-0d1117?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" /></a>
+  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" /></a>
+  <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" /></a>
+  <a href="https://kubernetes.io"><img src="https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" /></a>
+  <a href="https://www.jenkins.io"><img src="https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&logo=jenkins&logoColor=D24939" alt="Jenkins" /></a>
+  <a href="https://azure.microsoft.com"><img src="https://img.shields.io/badge/Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=0078D4" alt="Azure" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.oracle.com/middleware/technologies/soasuite.html"><img src="https://img.shields.io/badge/Oracle_SOA_Suite-0d1117?style=flat-square&logo=oracle&logoColor=F80000" alt="Oracle SOA Suite" /></a>
+  <a href="https://www.oracle.com/middleware/technologies/enterprise-data-quality.html"><img src="https://img.shields.io/badge/Oracle_EDQ-0d1117?style=flat-square&logo=oracle&logoColor=F80000" alt="Oracle EDQ" /></a>
+  <a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/Oracle_Cloud-0d1117?style=flat-square&logo=oracle&logoColor=F80000" alt="Oracle Cloud" /></a>
+  <a href="https://www.broadleafcommerce.com"><img src="https://img.shields.io/badge/Broadleaf_Commerce-0d1117?style=flat-square&logo=spring&logoColor=6DB33F" alt="Broadleaf Commerce" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/Oracle_DB-0d1117?style=flat-square&logo=oracle&logoColor=F80000" alt="Oracle Database" /></a>
+  <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /></a>
+  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></a>
+  <a href="https://react.dev"><img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /></a>
+  <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
+  <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind" /></a>
+</p>
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vishnu-vardhan-d&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu-vardhan-d&hide_border=true&theme=github-dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnu-vardhan-d&hide_border=true&theme=github-compact&area=true" alt="activity" />
+</p>
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://x.com/DipEngineer"><img src="https://img.shields.io/badge/@DipEngineer-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</p>
