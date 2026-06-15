@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-  📍 <b>Dallas, Texas</b> · USA
-</p>
-
-<p align="center">
-Seasoned engineer who architects complex <b>enterprise systems &amp; integrations</b> — and builds full-stack apps and <b>AI &amp; neural nets</b> from scratch.
+Seasoned engineer building <b>enterprise systems</b> &amp; <b>neural nets</b> — from <b>first principles</b>.
 </p>
 
 ## 💡 What I bring
