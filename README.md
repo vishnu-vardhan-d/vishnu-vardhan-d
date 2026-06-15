@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=900&duration=2600&color=58A6FF&center=true&vCenter=true&width=820&height=80&lines=Hi%2C+I%27m+Vishnu+Vardhan;Java+Engineer+%C2%B7+Enterprise+Systems+%26+Integration;Architect+%E2%80%A2+Modernize+%E2%80%A2+Scale;AI+%26+Neural+Nets+%E2%80%94+from+scratch;I+build+to+understand" alt="intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=900&duration=2600&color=58A6FF&center=true&vCenter=true&width=820&height=80&lines=Hi%2C+I%27m+Vishnu+Vardhan;Seasoned+Engineer+%C2%B7+Enterprise+Systems+%26+Integration;Architect+%E2%80%A2+Modernize+%E2%80%A2+Scale;AI+%26+Neural+Nets+%E2%80%94+from+scratch;I+build+to+understand" alt="intro" />
 </p>
 
 <p align="center">
-A decade of building <b>complex enterprise systems and integrations</b> in the Java ecosystem.
+Seasoned engineer who architects and builds <b>complex enterprise systems and integrations</b>.
 Now also building full-stack apps and <b>AI &amp; neural nets from scratch</b>. &nbsp; 📍 Texas, USA
 </p>
 
@@ -29,22 +29,10 @@ and Adam, learning to sort by next-token prediction. Ships with an interactive e
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,kafka,graphql,postgres,mysql,azure,docker,kubernetes,git,ts,js,react,nextjs,tailwind&perline=15" alt="tech stack" />
-</p>
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vishnu-vardhan-d&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu-vardhan-d&hide_border=true&theme=github-dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnu-vardhan-d&hide_border=true&theme=github-compact&area=true" alt="activity" />
-</p>
-
-## 🤝 Connect
-
-<p align="center">
-  <a href="https://x.com/DipEngineer"><img src="https://img.shields.io/badge/@DipEngineer-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-</p>
+  <a href="https://www.java.com" title="Java"><img height="44" src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+  <a href="https://spring.io" title="Spring"><img height="44" src="https://skillicons.dev/icons?i=spring" alt="Spring" /></a>
+  <a href="https://kafka.apache.org" title="Apache Kafka"><img height="44" src="https://skillicons.dev/icons?i=kafka" alt="Kafka" /></a>
+  <a href="https://graphql.org" title="GraphQL"><img height="44" src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" /></a>
+  <a href="https://www.postgresql.org" title="PostgreSQL"><img height="44" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+  <a href="https://www.mysql.com" title="MySQL"><img height="44" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://azure.microsoft.com" title="Microsoft Azure"><img height="44" src="https://skillicons.dev/
