@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Vishnu Vardhan👋
 
-<!--
-**vishnu-vardhan-d/vishnu-vardhan-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in **Texas, USA**. I like understanding how things work by
+building them from first principles — solid systems, a bit of AI, and the occasional
+deep dive into how the markets really move.
 
-Here are some ideas to get you started:
+- 🛠️ **Craft:** Java, backend systems, and software built to last.
+- 🧠 **Currently into:** how AI & LLMs actually work — learning by building, not just reading.
+- 📈 **Off the clock:** options, markets, and the slow art of compounding.
+- 🌱 **Always:** ship small, learn in public, get 1% better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech I reach for:** Java · Spring · SQL · Git — and a healthy dislike of unnecessary complexity.
+
+📫 Say hi on X — [@DipEngineer](https://x.com/DipEngineer)
