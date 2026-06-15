@@ -1,15 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=160&text=VISHNU%20VARDHAN&fontColor=ffffff&fontSize=50&fontAlignY=55&animation=fadeIn" alt="Vishnu Vardhan" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=900&duration=2600&color=58A6FF&center=true&vCenter=true&width=820&height=80&lines=Hi%2C+I%27m+Vishnu+Vardhan;Java+Engineer+%C2%B7+Enterprise+Systems+%26+Integration;Architect+%E2%80%A2+Modernize+%E2%80%A2+Scale;AI+%26+Neural+Nets+%E2%80%94+from+scratch;I+build+to+understand" alt="intro" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&duration=2800&color=58A6FF&center=true&vCenter=true&width=720&lines=ENTERPRISE+SYSTEMS+%26+INTEGRATION;ARCHITECT+%E2%80%A2+MODERNIZE+%E2%80%A2+SCALE;AI+%26+NEURAL+NETS%2C+FROM+SCRATCH;I+BUILD+TO+UNDERSTAND" alt="roles" />
-</p>
-
-<p align="center">
-Java engineer with a decade of building <b>complex enterprise systems and integrations</b>.
-I architect and modernize large-scale platforms, build full-stack (<b>Next.js / React</b>),
-and — lately — <b>AI &amp; neural nets from scratch</b>. &nbsp; 📍 Texas, USA
+A decade of building <b>complex enterprise systems and integrations</b> in the Java ecosystem.
+Now also building full-stack apps and <b>AI &amp; neural nets from scratch</b>. &nbsp; 📍 Texas, USA
 </p>
 
 ## 💡 What I bring
