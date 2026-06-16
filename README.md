@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Seasoned engineer building <b>enterprise systems</b> &amp; <b>neural nets</b> — from <b>first principles</b>.
+Seasoned engineer building <b>enterprise systems</b> &amp; <b>neural nets</b> from <b>first principles</b>.
 </p>
 
 ## 💡 What I bring
