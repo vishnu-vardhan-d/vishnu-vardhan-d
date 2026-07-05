@@ -6,13 +6,6 @@
 Seasoned engineer building <b>enterprise systems</b> &amp; <b>neural nets</b> from <b>first principles</b>.
 </p>
 
-## 💡 What I bring
-
-- 🏛️ **Enterprise architecture & integration** — design and connect large-scale systems that can't go down.
-- 🧩 **Deep problem-solving** — root cause over symptoms; I've stabilized live production under pressure.
-- ⚙️ **Modernization** — legacy platforms → Spring Boot microservices, CI/CD, and cloud.
-- 🧠 **AI from first principles** — neural nets and Transformers built from scratch, to truly understand them.
-
 ## 🚧 Current Projects
 
 **[🧠 Jamna · Java Neural Nets](https://github.com/vishnu-vardhan-d/jamna.nn)** — a mini Transformer / LLM
