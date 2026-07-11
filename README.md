@@ -6,17 +6,6 @@
 Seasoned engineer building <b>enterprise systems</b> &amp; <b>neural nets</b> from <b>first principles</b>.
 </p>
 
-## 🚧 Current Projects
-
-**[🧠 Jamna · Java Neural Nets](https://github.com/vishnu-vardhan-d/jamna.nn)** — a mini Transformer / LLM
-engine from scratch in **pure Java, no libraries**: hand-written autograd, multi-head attention, LayerNorm,
-and Adam, learning to sort by next-token prediction. Ships with an interactive explainer.
-`Java` · `Maven` · `zero dependencies`
-
-**[📈 Options Wall Street](https://github.com/vishnu-vardhan-d/options-wall-street)** — a full app to
-**automate options trading** for daily use: strategy automation, payoff & P&L tracking, and execution.
-`Spring Boot` · `Next.js / React` · `live market data`
-
 ## 🛠️ Tech Stack
 
 <p align="center">
