@@ -28,17 +28,6 @@ Seasoned engineer building <b>enterprise systems</b> &amp; <b>neural nets</b> fr
   <a href="https://tailwindcss.com" title="Tailwind CSS"><img height="44" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" /></a>
 </p>
 
-<p align="center">
-  <sub><b>Enterprise &amp; integration:</b>
-  <a href="https://hibernate.org">Hibernate</a> ·
-  <a href="https://maven.apache.org">Maven</a> ·
-  <a href="https://www.oracle.com/database/">Oracle DB</a> ·
-  <a href="https://www.oracle.com/middleware/technologies/soasuite.html">Oracle SOA Suite</a> ·
-  <a href="https://www.oracle.com/middleware/technologies/enterprise-data-quality.html">Oracle EDQ</a> ·
-  <a href="https://www.oracle.com/cloud/">Oracle Cloud</a> ·
-  <a href="https://www.broadleafcommerce.com">Broadleaf Commerce</a></sub>
-</p>
-
 ## 📊 GitHub
 
 <p align="center">
