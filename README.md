@@ -14,7 +14,7 @@ An assistant for engineering teams. It reads a new Azure DevOps ticket, finds th
 
 **Tech stack:** Java 25 · Spring Boot 4.1 · Spring Web MVC · Spring AI 2 · Claude Sonnet and Haiku · Ollama (nomic-embed-text) · MCP client · Azure DevOps MCP · Azure DevOps service hooks · Apache Kafka 4 (KRaft) · PostgreSQL 16 + pgvector · Hibernate Vector · Flyway · OpenTelemetry · Langfuse · Spring Boot Actuator · Cloudflare Tunnel · LangChain4j agentic · Playwright MCP · JUnit 5 · Testcontainers · React · TypeScript · Vite · Tailwind CSS · assistant-ui · shadcn/ui · Zustand · Docker Compose · GitHub Actions · Terraform · AWS
 
-### jamna.nn · [Code](https://github.com/vishnu-vardhan-d/jamna.nn) · [Interactive explainer](https://vishnu-vardhan-d.github.io/jamna.nn/)
+### pure-java-transformer · [Code](https://github.com/vishnu-vardhan-d/pure-java-transformer) · [Interactive explainer](https://vishnu-vardhan-d.github.io/pure-java-transformer/)
 A small transformer language model written in pure Java with no libraries, not even a math one. It learns to sort numbers by predicting the next token, the same way a language model learns to write. The interactive explainer walks through embeddings, attention and softmax with the real trained weights.
 
 **Tech stack:** Java (zero dependencies) · Maven
@@ -30,10 +30,3 @@ An options screener for the wheel strategy, built for personal use. A Spring Boo
 - [Attention in pure Java, with real numbers](https://vishnuvardhan.io/blog/attention-in-pure-java)
 - [Publishing a Home Server Through a Cloudflare Tunnel](https://vishnuvardhan.io/blog/publishing-a-home-server)
 - [Counting Visitors on a Static Site](https://vishnuvardhan.io/blog/counting-visitors-on-a-static-site)
-
-### GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vishnu-vardhan-d&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu-vardhan-d&hide_border=true&theme=github-dark" />
-</p>
